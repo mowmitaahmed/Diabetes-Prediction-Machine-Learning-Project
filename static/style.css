@@ -1,0 +1,14 @@
+h1{
+  color: aquamarine
+}
+.myform{
+    max-width: 400px;
+    margin: 10px auto;
+}
+select{
+    display: block!important;
+}
+
+.btn{
+    margin-top: 20px;
+}
